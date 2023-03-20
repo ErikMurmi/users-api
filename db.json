@@ -1,9 +1,11 @@
 {
-   "users":[
-      {
-         "id":1,
-         "email":"erik@mail.com",
-         "password":"qwertyuiop"
-      }
-   ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
