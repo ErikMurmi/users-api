@@ -1,9 +1,9 @@
 {
    "users": [
       {
-         "id": 1,
-         "email": "erik@mail.com",
-         "password": "qwertyuiop"
+         "id":1,
+         "email":"erik@mail.com",
+         "password":"qwertyuiop"
       }
    ]
 }
